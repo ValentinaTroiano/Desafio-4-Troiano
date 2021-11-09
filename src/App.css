@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+.body{
+   padding: 15px; text-align: center;
+   background-color: rgb(253, 242, 244);
+ 
+}
+.titulo{
+  text-align: center; margin: 10px;
+  background-color: rgb(253, 213, 220);
+   padding: 10px;
+}
+.footer{
+  text-align: center;
+  padding: 20px; margin: 10px;
+  background-color: pink;
+
+}
+button{
+  margin: 20px;
+  text-align: center; background-color: rgb(253, 213, 220);
+  padding: 7px; border-color: pink;
+}
+#botonCarrito{
+  text-align: end;
+  background-color: pink;
+  color: black;
+  border:groove palevioletred ;
+}
+#home{
+  border: groove palevioletred;
+  background-color: peachpuff;
+}
+#nosotros{
+  border:groove palevioletred ;
+  background-color: peachpuff;
+}
+#contacto{
+  border:groove palevioletred ;
+  background-color: peachpuff;
+}
